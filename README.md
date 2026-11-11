@@ -1,0 +1,1 @@
+# erp_odoo_pos_receipt_remove_odoo_brand
